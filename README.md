@@ -12,4 +12,5 @@ Well worried of all the fuzzy stuff, use memory maps to link similar concepts to
  6. ![microwave Devices](Engineering-subject-memory-maps/Microwave-Devices.pdf)
 
 That's it!
+Have ideas, make it.
  
