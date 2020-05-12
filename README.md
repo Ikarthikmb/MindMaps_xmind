@@ -1,4 +1,4 @@
-The following content can be accessed through https://ikarthikmb.github.io/xMind-Memory-maps/.
+The following content can be accessed through https://ikarthikmb.github.io/Memory_Maps-xMind/.
 # xMind-Memory-maps
 Memory maps of engineering concepts made using xMind website
 
